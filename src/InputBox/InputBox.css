@@ -1,0 +1,16 @@
+.InputBox {
+  margin-top: 20px;
+  margin-left: 86px;
+  width: 600px;
+}
+
+.InputBox input {
+  width: 500px;
+  height: 25px;
+}
+.InputBox button {
+  margin-left: -86px;
+  background-color: light-gray;
+  height: 26px;
+  width: 80px;
+}

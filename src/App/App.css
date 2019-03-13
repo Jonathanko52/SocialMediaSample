@@ -1,0 +1,16 @@
+.App {
+  min-height: 100vh;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  background-color: #282c34;
+}
+
+::placeholder {
+  color: light-gray;
+  opacity: 1;
+}

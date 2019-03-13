@@ -1,0 +1,14 @@
+.FeedItem {
+  text-align: center;
+  min-height: 400px;
+  background-color: white;
+}
+
+.FeedItem p {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.FeedItem img {
+  width: 480px;
+}
